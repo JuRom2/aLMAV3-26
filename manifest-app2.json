@@ -1,7 +1,7 @@
 {
  "name": "Almacen 2026 - APP 2",
  "short_name": "Almacen APP 2",
- "start_url": "./",
+ "start_url": "./index_app2.html",
  "display": "standalone",
  "background_color": "#efedee",
  "theme_color": "#B45309",
@@ -9,12 +9,16 @@
   {
    "src": "icon-app2-192.png",
    "sizes": "192x192",
-   "type": "image/png"
+   "type": "image/png",
+   "purpose": "any"
   },
   {
    "src": "icon-app2-512.png",
    "sizes": "512x512",
-   "type": "image/png"
+   "type": "image/png",
+   "purpose": "any"
   }
- ]
+ ],
+ "id": "./index_app2.html",
+ "scope": "./"
 }
